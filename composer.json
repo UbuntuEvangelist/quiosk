@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "buonzz/quiosk",
+    "description": "Queue Management System.",
+    "keywords": ["queuing system", "raspberry pi", "erp"],
     "license": "MIT",
     "type": "project",
     "require": {
