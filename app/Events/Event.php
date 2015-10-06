@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace Quiosk\Events;
 
 abstract class Event
 {

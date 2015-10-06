@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Quiosk\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

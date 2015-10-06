@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: App
-        psr4_prefix: App
+        namespace: Quiosk
+        psr4_prefix: Quiosk
         src_path: app
